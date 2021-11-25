@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#bloc1{
+    background-image: url(images/header.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 400px;
+    color: whitesmoke;
+}
+#pc{
+    height:auto;
+    width: 1000px;
+}
+#gris{
+    background-color: rgba(194, 194, 194, 0.1);
+    height: auto;  
+}
+#clients img{
+    width:auto ;
+    height: auto;
+}
+#pont{
+    background-image: url(images/sep.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: auto;
+    color: whitesmoke;
+}
+.btn{
+    border-color: whitesmoke;
+    border-radius: 30px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+#bandbleu{
+    background-color: rgb(8, 172, 232);
+    width: auto;
+    height: 60px;
+}
+#bandbleu2{
+    background-color: rgb(8, 172, 232);
+    width: auto;
+    height: auto;
+    color: whitesmoke;
+    font-size: 10px;
+}
+.bi{
+    color: whitesmoke;
+    font-size: 20px;
+}
